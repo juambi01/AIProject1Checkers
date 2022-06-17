@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+#Juan Merlos
+#Intro to AI
 from easyAI import TwoPlayerGame
 from easyAI.Player import Human_Player
 import time
